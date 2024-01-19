@@ -1,8 +1,10 @@
 <?php
-add_action( 'after_setup_theme', 'theme_techqik_com_setup' );
+// add_action( 'after_setup_theme', 'theme_techqik_com_setup' );
 
-function theme_techqik_com_setup() {
-    error_log(get_stylesheet_uri());
-    error_log(get_theme_file_uri( 'assets/css/primary.css' ));
-    add_theme_support( 'wp-block-styles' );
-}
+// function theme_techqik_com_setup() {
+//     add_theme_support( 'wp-block-styles' );
+// }
+
+
+define( 'TECHQIK_THEME_DIR', trailingslashit( get_template_directory() ) );
+require_once TECHQIK_THEME_DIR . 'inc/core/common-functions.php';
