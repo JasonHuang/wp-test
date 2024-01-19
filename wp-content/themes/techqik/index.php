@@ -18,26 +18,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 get_header(); ?>
 
-	<div id="primary" <?php astra_primary_class(); ?>>
-		<?php
-		// astra_primary_content_top();
-		get_sidebar();
-		// astra_content_loop();
-		if ( have_posts() ) :
-			while ( have_posts() ) :
-				the_post();
-				the_title( '<h1>', '</h1>' );
-				the_content();
-			endwhile;
-		else :
-			_e( 'Sorry, no posts matched your criteria.', 'devhub' );
-		endif;
-		// astra_pagination();
-
-		// astra_primary_content_bottom();
-		?>
-	</div><!-- #primary -->
+<div id="app"></div>
 
 <?php
-
 get_footer();

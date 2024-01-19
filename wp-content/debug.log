@@ -2431,3 +2431,113 @@ Stack trace:
 [11-Jan-2024 00:14:34 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /www/wwwroot/libofei.com/wp-includes/functions.php on line 6031
 [11-Jan-2024 04:58:46 UTC] PHP Deprecated:  File Theme without sidebar.php is deprecated since version 3.0.0 with no alternative available. Please include a sidebar.php template in your theme. in /www/wwwroot/libofei.com/wp-includes/functions.php on line 6031
 [13-Jan-2024 06:55:51 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
+[19-Jan-2024 04:05:32 UTC] here is the index.php
+[19-Jan-2024 04:06:09 UTC] here is the index.php
+[19-Jan-2024 04:06:26 UTC] here is the index.php
+[19-Jan-2024 04:06:53 UTC] in functions.php, out of function.
+[19-Jan-2024 04:06:53 UTC] here is the index.php
+[19-Jan-2024 04:06:53 UTC] in functions.php, out of function.
+[19-Jan-2024 04:07:05 UTC] in functions.php, out of function.
+[19-Jan-2024 04:07:05 UTC] here is the index.php
+[19-Jan-2024 04:07:05 UTC] in functions.php, out of function.
+[19-Jan-2024 04:09:17 UTC] in functions.php, out of function.
+[19-Jan-2024 04:09:35 UTC] in functions.php, out of function.
+[19-Jan-2024 04:09:35 UTC] here is the index.php
+[19-Jan-2024 04:09:35 UTC] in functions.php, out of function.
+[19-Jan-2024 04:09:49 UTC] in functions.php, out of function.
+[19-Jan-2024 04:09:49 UTC] in functions.php, out of function.
+[19-Jan-2024 04:19:56 UTC] in functions.php, out of function.
+[19-Jan-2024 04:19:56 UTC] in functions.php, out of function.
+[19-Jan-2024 04:19:56 UTC] in functions.php, out of function.
+[19-Jan-2024 04:21:58 UTC] in functions.php, out of function.
+[19-Jan-2024 04:21:58 UTC] here is the index.php
+[19-Jan-2024 04:25:56 UTC] in functions.php, out of function.
+[19-Jan-2024 04:27:48 UTC] in functions.php, out of function.
+[19-Jan-2024 04:27:48 UTC] here is the index.php
+[19-Jan-2024 04:31:22 UTC] in functions.php, out of function.
+[19-Jan-2024 04:31:23 UTC] in functions.php, out of function.
+[19-Jan-2024 04:38:56 UTC] in functions.php, out of function.
+[19-Jan-2024 04:38:56 UTC] here is the index.php
+[19-Jan-2024 04:38:56 UTC] in functions.php, out of function.
+[19-Jan-2024 04:39:58 UTC] in functions.php, out of function.
+[19-Jan-2024 04:39:58 UTC] here is the index.php
+[19-Jan-2024 04:39:58 UTC] in functions.php, out of function.
+[19-Jan-2024 04:40:04 UTC] in functions.php, out of function.
+[19-Jan-2024 04:40:04 UTC] here is the index.php
+[19-Jan-2024 04:40:05 UTC] in functions.php, out of function.
+[19-Jan-2024 04:41:00 UTC] in functions.php, out of function.
+[19-Jan-2024 04:41:00 UTC] in functions.php, out of function.
+[19-Jan-2024 04:42:35 UTC] in functions.php, out of function.
+[19-Jan-2024 04:42:43 UTC] in functions.php, out of function.
+[19-Jan-2024 04:42:44 UTC] here is the index.php
+[19-Jan-2024 04:42:44 UTC] in functions.php, out of function.
+[19-Jan-2024 04:46:02 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:46:02 UTC] here is the index.php
+[19-Jan-2024 04:46:03 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:51:19 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:51:19 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:53:24 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:53:24 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:53:24 UTC] here is the index.php
+[19-Jan-2024 04:53:25 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:53:25 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:53:25 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:53:25 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:53:25 UTC] here is the index.php
+[19-Jan-2024 04:53:25 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:53:25 UTC] here is the index.php
+[19-Jan-2024 04:53:25 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:53:25 UTC] here is the index.php
+[19-Jan-2024 04:53:25 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:21 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:21 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:57:21 UTC] here is the index.php
+[19-Jan-2024 04:57:22 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:22 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:22 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:22 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:57:22 UTC] here is the index.php
+[19-Jan-2024 04:57:22 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:57:22 UTC] here is the index.php
+[19-Jan-2024 04:57:22 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:57:22 UTC] here is the index.php
+[19-Jan-2024 04:57:23 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:26 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:57:26 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 04:57:26 UTC] here is the index.php
+[19-Jan-2024 04:57:27 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 04:59:16 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:01:27 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:01:27 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:12:13 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:12:13 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:12:14 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:47 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:47 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:47 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:17:47 UTC] here is the index.php
+[19-Jan-2024 05:17:48 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:48 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:48 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:17:48 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:17:48 UTC] here is the index.php
+[19-Jan-2024 05:17:48 UTC] here is the index.php
+[19-Jan-2024 05:17:57 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:57 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:17:57 UTC] here is the index.php
+[19-Jan-2024 05:17:58 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:58 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:17:58 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:17:58 UTC] here is the index.php
+[19-Jan-2024 05:17:58 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:17:58 UTC] here is the index.php
+[19-Jan-2024 05:17:58 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:18:07 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:18:07 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:18:24 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:22:21 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:22:22 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:23:22 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:23:22 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 05:23:23 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
+[19-Jan-2024 05:23:23 UTC] techqik_enqueue_vue function.

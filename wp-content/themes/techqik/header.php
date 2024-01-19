@@ -14,13 +14,10 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
 ?><!DOCTYPE html>
-<!--?php astra_html_before(); ?-->
 <html <?php language_attributes(); ?>>
 <head>
-<!--?php astra_head_top(); ?-->
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<div>
-    header here
-</div>
+<?php wp_head(); ?>
+</head>
+<body>
