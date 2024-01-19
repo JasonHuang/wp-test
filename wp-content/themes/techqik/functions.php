@@ -14,4 +14,4 @@ if ( ! function_exists( 'techqik_enqueue_vue' ) ) {
         wp_enqueue_script('techqik-vue-js', get_template_directory_uri() . '/assets/index-SXCcESYw.js', array(), false, true);
     }
     add_action('wp_enqueue_scripts', 'techqik_enqueue_vue');
-}
+} 
