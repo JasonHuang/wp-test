@@ -15,3 +15,30 @@ if ( ! function_exists( 'techqik_enqueue_vue' ) ) {
     }
     add_action('wp_enqueue_scripts', 'techqik_enqueue_vue');
 } 
+
+
+/**
+ * check if the techqik_get_menu_by_location exists.
+ */
+if ( ! function_exists( 'techqik_get_menu_by_location' ) ) {
+    
+    /**
+     * REST_API,retrieve menu from wordpress
+     */
+    function techqik_get_menu_by_location($data) {
+        $locations = get_nav_menu_locations();
+        if (!isset($locations[$data['location']])) {
+            return new WP_Error('not_found', 'Menu location not found', array('status' => 404));
+        }
+
+        $menu = wp_get_nav_menu_items($locations[$data['location']]);
+        return $menu ? $menu : new WP_Error('not_found', 'No menu items found', array('status' => 404));
+    }
+
+    add_action('rest_api_init', function () {
+        register_rest_route('techqik/v1', '/menu/(?P<location>[a-zA-Z0-9_-]+)', array(
+            'methods' => 'GET',
+            'callback' => 'techqik_get_menu_by_location',
+        ));
+    });
+}

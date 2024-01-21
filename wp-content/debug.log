@@ -2541,3 +2541,6 @@ Stack trace:
 [19-Jan-2024 05:23:22 UTC] techqik_enqueue_vue function.
 [19-Jan-2024 05:23:23 UTC] in functions.php, out of function.http://libofei.com/wp-content/themes/techqik
 [19-Jan-2024 05:23:23 UTC] techqik_enqueue_vue function.
+[19-Jan-2024 06:44:26 UTC] Cron reschedule event error for hook: wp_1_wc_privacy_cleanup_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wp_1_wc_privacy_cleanup_cron_interval","args":[],"interval":300}
+[19-Jan-2024 06:46:04 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
+[19-Jan-2024 06:46:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
