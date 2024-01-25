@@ -2544,3 +2544,138 @@ Stack trace:
 [19-Jan-2024 06:44:26 UTC] Cron reschedule event error for hook: wp_1_wc_privacy_cleanup_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"wp_1_wc_privacy_cleanup_cron_interval","args":[],"interval":300}
 [19-Jan-2024 06:46:04 UTC] Cron reschedule event error for hook: woocommerce_geoip_updater, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"fifteendays","args":[],"interval":1296000}
 [19-Jan-2024 06:46:04 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[21-Jan-2024 07:48:12 UTC] PHP Warning:  error_log() expects parameter 1 to be string, array given in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 30
+[21-Jan-2024 07:49:45 UTC] PHP Parse error:  syntax error, unexpected ')' in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 30
+[21-Jan-2024 07:49:45 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[21-Jan-2024 07:49:46 UTC] PHP Parse error:  syntax error, unexpected ')' in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 30
+[21-Jan-2024 07:49:46 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[21-Jan-2024 07:50:09 UTC] Array
+(
+)
+
+[21-Jan-2024 07:50:22 UTC] Array
+(
+)
+
+[21-Jan-2024 08:27:28 UTC] $data:WP_REST_Request Object
+(
+    [method:protected] => GET
+    [params:protected] => Array
+        (
+            [URL] => Array
+                (
+                    [location] => primary
+                )
+
+            [GET] => Array
+                (
+                )
+
+            [POST] => Array
+                (
+                )
+
+            [FILES] => Array
+                (
+                )
+
+            [JSON] => 
+            [defaults] => Array
+                (
+                )
+
+        )
+
+    [headers:protected] => Array
+        (
+            [upgrade_insecure_requests] => Array
+                (
+                    [0] => 1
+                )
+
+            [cookie] => Array
+                (
+                    [0] => wordpress_logged_in_1ef6cc7e94b8259b96e91434618ce322=lefan_test%7C1706856185%7CSPit9QRUkSQnm3GTBD3wYhXU9hOIjV6D4zmMpMwaER4%7C2be8e9dab399d39dcd22eb0b1023f10c7a06b16b9334e9c9d29227c61c5865f9; wp-settings-1=libraryContent%3Dbrowse; wp-settings-time-1=1705646586
+                )
+
+            [cache_control] => Array
+                (
+                    [0] => max-age=0
+                )
+
+            [accept_language] => Array
+                (
+                    [0] => zh-CN,zh;q=0.9,en;q=0.8,ja;q=0.7
+                )
+
+            [accept_encoding] => Array
+                (
+                    [0] => gzip, deflate
+                )
+
+            [accept] => Array
+                (
+                    [0] => text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+                )
+
+            [user_agent] => Array
+                (
+                    [0] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+                )
+
+            [host] => Array
+                (
+                    [0] => libofei.com
+                )
+
+            [content_length] => Array
+                (
+                    [0] => 
+                )
+
+            [content_type] => Array
+                (
+                    [0] => 
+                )
+
+        )
+
+    [body:protected] => 
+    [route:protected] => /techqik/v1/menu/primary
+    [attributes:protected] => Array
+        (
+            [methods] => Array
+                (
+                    [GET] => 1
+                )
+
+            [accept_json] => 
+            [accept_raw] => 
+            [show_in_index] => 1
+            [args] => Array
+                (
+                )
+
+            [callback] => techqik_get_menu_by_location
+        )
+
+    [parsed_json:protected] => 1
+    [parsed_body:protected] => 
+)
+
+[21-Jan-2024 08:27:28 UTC] $locations:Array
+(
+)
+
+[21-Jan-2024 08:28:56 UTC] $data:primary
+[21-Jan-2024 08:28:56 UTC] $locations:Array
+(
+)
+
+[21-Jan-2024 08:31:52 UTC] $data:primary
+[21-Jan-2024 08:31:52 UTC] $locations:Array
+(
+    [primary] => 18
+)
+
+[22-Jan-2024 01:09:45 UTC] PHP Notice:  Trying to get property 'title' of non-object in /www/wwwroot/libofei.com/wp-includes/class-wp-customize-widgets.php on line 905
