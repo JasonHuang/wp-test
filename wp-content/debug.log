@@ -2679,3 +2679,55 @@ Stack trace:
 )
 
 [22-Jan-2024 01:09:45 UTC] PHP Notice:  Trying to get property 'title' of non-object in /www/wwwroot/libofei.com/wp-includes/class-wp-customize-widgets.php on line 905
+[27-Jan-2024 07:08:54 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING), expecting '(' in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 16
+[27-Jan-2024 07:08:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[27-Jan-2024 07:08:54 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING), expecting '(' in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 16
+[27-Jan-2024 07:08:54 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[27-Jan-2024 07:34:51 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING), expecting '(' in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 16
+[27-Jan-2024 07:34:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[27-Jan-2024 07:34:51 UTC] PHP Parse error:  syntax error, unexpected 'wp_enqueue_style' (T_STRING), expecting '(' in /www/wwwroot/libofei.com/wp-content/themes/techqik/functions.php on line 16
+[27-Jan-2024 07:34:51 UTC] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[27-Jan-2024 07:35:30 UTC] here.
+[27-Jan-2024 07:35:31 UTC] here.
+[27-Jan-2024 07:39:45 UTC] here.
+[27-Jan-2024 07:39:46 UTC] here.
+[27-Jan-2024 07:39:46 UTC] here.
+[27-Jan-2024 07:40:58 UTC] here.
+[27-Jan-2024 07:40:58 UTC] here.
+[27-Jan-2024 08:11:04 UTC] here.
+[27-Jan-2024 08:11:04 UTC] here.
+[27-Jan-2024 08:11:21 UTC] here.
+[27-Jan-2024 08:11:21 UTC] here.
+[27-Jan-2024 08:11:22 UTC] here.
+[27-Jan-2024 08:12:01 UTC] here.
+[27-Jan-2024 08:12:01 UTC] here.
+[27-Jan-2024 08:12:12 UTC] here.
+[27-Jan-2024 08:12:13 UTC] here.
+[27-Jan-2024 08:12:13 UTC] here.
+[27-Jan-2024 08:14:32 UTC] here.
+[27-Jan-2024 08:14:33 UTC] here.
+[27-Jan-2024 08:14:33 UTC] here.
+[27-Jan-2024 09:00:06 UTC] here.
+[27-Jan-2024 09:00:07 UTC] here.
+[27-Jan-2024 09:00:07 UTC] here.
+[27-Jan-2024 11:19:39 UTC] here.
+[27-Jan-2024 16:23:48 UTC] here.
+[27-Jan-2024 17:28:58 UTC] here.
+[27-Jan-2024 18:33:02 UTC] here.
+[27-Jan-2024 18:49:37 UTC] here.
+[27-Jan-2024 18:49:37 UTC] here.
+[27-Jan-2024 23:49:32 UTC] here.
+[27-Jan-2024 23:49:33 UTC] here.
+[27-Jan-2024 23:49:33 UTC] here.
+[27-Jan-2024 23:53:25 UTC] here.
+[27-Jan-2024 23:53:25 UTC] here.
+[28-Jan-2024 01:45:19 UTC] here.
+[28-Jan-2024 01:45:20 UTC] here.
+[28-Jan-2024 01:46:00 UTC] here.
+[28-Jan-2024 01:46:01 UTC] here.
+[28-Jan-2024 01:46:23 UTC] here.
+[28-Jan-2024 01:47:51 UTC] here.
+[28-Jan-2024 01:51:28 UTC] here.
+[28-Jan-2024 01:51:45 UTC] here.
+[28-Jan-2024 01:51:46 UTC] here.
+[28-Jan-2024 01:51:57 UTC] here.

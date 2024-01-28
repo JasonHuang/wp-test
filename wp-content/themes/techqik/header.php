@@ -19,13 +19,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 <meta charset="<?php bloginfo( 'charset' ); ?>">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <?php 
-wp_nav_menu(array(
-    'theme_location' => 'primary',
-    'container' => 'nav',
-    'container_class' => 'main-menu',
-));
 
 wp_head(); 
 ?>
 </head>
 <body>
+<div id="vue-navbar"></div>

@@ -18,7 +18,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 }
 get_header(); ?>
 
-<div id="app"></div>
+   	<div id="vue-hero"></div>
+    <div id="vue-feature"></div>
+    <div id="vue-cta"></div>
 
 <?php
 get_footer();

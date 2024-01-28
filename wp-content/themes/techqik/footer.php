@@ -13,7 +13,10 @@
 if ( ! defined( 'ABSPATH' ) ) {
 	exit; // Exit if accessed directly.
 }
-	wp_footer(); 
+?>
+<div id="vue-footer"></div>
+<?php	
+wp_footer(); 
 ?>
 	</body>
 </html>
