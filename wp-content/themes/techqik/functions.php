@@ -13,8 +13,8 @@ if ( ! function_exists( 'techqik_enqueue_vue' ) ) {
      * add built vue js, css, images.
      */
     function techqik_enqueue_vue() {
-        wp_enqueue_style('techqik-vue-css', get_template_directory_uri() . '/assets/index-6yuUNRKH.css');
-        wp_enqueue_script('techqik-vue', get_template_directory_uri() . '/assets/index-13_B9SD1.js', array(), false, true);
+        wp_enqueue_style('techqik-vue-css', get_template_directory_uri() . '/assets/index-d7kJcE1O.css');
+        wp_enqueue_script('techqik-vue', get_template_directory_uri() . '/assets/index-24L8jkFx.js', array(), false, true);
         wp_localize_script('techqik-vue-js', 'MyThemeApiSettings', array('apiUrl' => rest_url('mytheme/v1')));
     }
     add_action('wp_enqueue_scripts', 'techqik_enqueue_vue');
@@ -58,7 +58,8 @@ if ( ! function_exists( 'techqik_register_menus' ) ) {
         register_nav_menus(array(
             'primary' => __('Primary Menu', 'techqik'),
             'mobile' => __('Mobile Menu', 'techqik'),
-            'footer' => __('Footer Menu', 'techqik'),
+            'footer1' => __('Footer1 Menu', 'techqik'),
+            'footer2' => __('Footer2 Menu', 'techqik'),
             // 您可以根据需要注册更多的菜单位置
         ));
     }
